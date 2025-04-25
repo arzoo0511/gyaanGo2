@@ -62,7 +62,7 @@ const Hero = () => {
                             <div className="hidden flex flex-col lg:flex-row lg:px-8 carousel-caption absolute text-green-500 left-0 top-0 bg-gray-100 bg-opacity-25 w-full">
                                 <div className="w-full lg:w-2/3 h-full flex flex-col lg:flex-row">
                                     <div className="flex flex-col items-center gap-y-4 md:gap-y-6 p-2">
-                                        <h5 className="text-xl md:2xl lg:text-6xl">Learncha</h5>
+                                        <h5 className="text-xl md:2xl lg:text-6xl">GyaanGo</h5>
                                     </div>
                                 </div>
                             </div>
@@ -168,8 +168,8 @@ const Hero = () => {
                 <div class="box">
                     <a href="#">
                         <div class="box-info about">
-                            <h2>About Learncha</h2>
-                            <p className='text-justify'>Learncha is a educational Gamifying Paltform designed for kids that helps to instill the love of learning in a child.
+                            <h2>About GyaanGo</h2>
+                            <p className='text-justify'>GyaanGo is a educational Gamifying Paltform designed for kids that helps to instill the love of learning in a child.
                                 This applies whether they've learning through homeschooling, online learning, offline traditional classroom setting...
                             </p>
                         </div>

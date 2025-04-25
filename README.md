@@ -1,10 +1,10 @@
-# Learncha
+# GyaanGo
 
 _Read this in other languages: [English](README.md), [한국어](./docs/README.ko.md), [português](./docs/README.pt_br.md), [中文](./docs/README.zh.md)._
 
 ## Contents
 
-- [Learncha](#learncha)
+- [GyaanGo](#gyaango)
   - [Contents](#contents)
   - [Short description.](#short-description)
     - [What's the problem?](#whats-the-problem)
@@ -13,12 +13,12 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
   - [Demo video](#demo-video)
   - [The architecture](#the-architecture)
   - [Long description](#long-description)
-    - [LEARNCHA](#learncha-1)
+    - [GyaanGo](#gyaango-1)
     - [DID YOU KNOW?](#did-you-know)
     - [The Problem](#the-problem)
     - [SOLUTION](#solution)
     - [Conclusion](#conclusion)
-  - [Project roadmap](#project-roadmap) - [Learncha currently does the following:](#learncha-currently-does-the-following)
+  - [Project roadmap](#project-roadmap) - [GyaanGo currently does the following:](#gyaango-currently-does-the-following)
     - [it currently runs on IBM Cloud Foundary.](#it-currently-runs-on-ibm-cloud-foundary)
     - [See below for our proposed schedule on next steps after Call for Code 2021 submission.](#see-below-for-our-proposed-schedule-on-next-steps-after-call-for-code-2021-submission)
   - [Live demo](#live-demo)
@@ -27,7 +27,7 @@ _Read this in other languages: [English](README.md), [한국어](./docs/README.k
 
 ## Short description.
 
-Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
+GyaanGo is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
 
 ![live demo](./images/learncha.jpeg)
 
@@ -44,7 +44,7 @@ Access to quality education for children is deprived by economic barrier, climat
 
 ### The idea
 
-Learncha is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
+GyaanGo is an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning
 
 ## Demo video
 
@@ -61,14 +61,14 @@ Learncha is an online and offline learning resources and a more immersive learni
 
 ## Long description
 
-### LEARNCHA
+### GyaanGo
 
 ### DID YOU KNOW?
 
-According to UNICEF Even though primary education is officially free and compulsory, about 10.5 million of the country’s children aged 5-14 years are not in school ?!
+According to UNICEF Even though primary education is officially free and compulsory, about 10.5 million of the country's children aged 5-14 years are not in school ?!
 The education deprivation in northern Nigeria is driven by various factors, including economic barriers, climatic, socio-cultural norms and practices that discourage attendance in formal education, especially for girls.
 
-[Learncha website](https://learncha.vercel.app)
+[GyaanGo website](https://learncha.vercel.app)
 
 ### The Problem
 
@@ -76,17 +76,17 @@ The challenge faced by poor, remote and marginalised communities in Nigeria most
 
 ### SOLUTION
 
-We built a real time software LEARNCHA that provides an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
+We built a real time software GyaanGo that provides an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
 
 ### Conclusion
 
-OUR SOLUTION LEARNCHA that provides an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
+OUR SOLUTION GyaanGo that provides an online and offline learning resources and a more immersive learning platform for kids using gaming to teach children in remote communities on climate and at same time have access to equitable educational tools and STEM games to enhance outside classroom learning.
 
 <!-- [More detail is available here](./docs/DESCRIPTION.md) -->
 
 ## Project roadmap
 
-##### Learncha currently does the following:
+##### GyaanGo currently does the following:
 
 - online and offline learning resources
 - immersive learning platform for kids using gaming to teach children in remote communities on climate,

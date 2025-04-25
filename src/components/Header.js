@@ -14,7 +14,7 @@ const Header = () => {
       </div>
       <div className="left-part"></div>
       <a id="logo" href="/"></a>
-      <a href='./' className='absolute top-24 left-0 w-full flex justify-center text-4xl text-red-400 text-decoration-none' style={{fontFamily: 'Gochi  Hand'}}><Link to='/'>Learncha</Link></a>
+      <a href='./' className='absolute top-24 left-0 w-full flex justify-center text-4xl text-red-400 text-decoration-none' style={{fontFamily: 'Gochi  Hand'}}><Link to='/'>GyaanGo</Link></a>
       <div className='bar-holder'>
         <nav id="nav">
             <ul>
