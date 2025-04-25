@@ -13,10 +13,8 @@
 ## Hosting & APIs
 
 ### Online Services (completed)
-- **IBM Cloud Foundry** – Hosting the application
 - **IBM The Weather Company** – Weather API for climate-related features
 - **PostgreSQL** – Online database management
-- **Cloudinary** – Object storage for images and media
 - **FastAPI** – Python-based backend API framework
 - **Text-to-Speech API** – Converts text content to audio
 - **Speech Recognition API** – Transcribes spoken words into text
