@@ -1,26 +1,33 @@
+# GyaanGo
 
-GyaanGo 
-arzoo rai -e23cseu2419 
-anish sharma -e23cseu0292
+**Contributors:**
+- Arzoo Rai (`e23cseu2419`)
+- Anish Sharma (`e23cseu0292`)
 
-batch 10 
-group 3 
-prof - Dr.Sudhanshu Gupta 
+**Batch:** 10  
+**Group:** 3  
+**Faculty Mentor:** Dr. Sudhanshu Gupta
 
+---
 
+## Hosting & APIs
 
-Online
-IBM Cloud Foundary - Used for hosting
-IBM The Weather Company - Weather API used for climate challenge
-PostgreSQL - Database management system
-Cloudinary - Object Storage
-FASTAPI - Python Web API used
-Text-To-Speech - API used for text to speech
-Speech-Recognition - API used for speech recognition
-React JS - JavaScript Library for user interface
+### Online Services (completed)
+- **IBM Cloud Foundry** – Hosting the application
+- **IBM The Weather Company** – Weather API for climate-related features
+- **PostgreSQL** – Online database management
+- **Cloudinary** – Object storage for images and media
+- **FastAPI** – Python-based backend API framework
+- **Text-to-Speech API** – Converts text content to audio
+- **Speech Recognition API** – Transcribes spoken words into text
+- **React JS** – Frontend library for building the user interface
 
-Offline
-trivia API - API used for Trivia quiz
-Dictionary API - Used to fetch meaning of words
-MySQL - Database management system used
-Thesaurus API - APi used to fetch Thesaurus
+---
+
+### Offline Features (in progress)
+- **Trivia API** – Fetches questions for the quiz feature
+- **Dictionary API** – Used to fetch word meanings
+- **MySQL** – Offline/local database system
+- **Thesaurus API** – Fetches synonyms and antonyms for words
+
+---
